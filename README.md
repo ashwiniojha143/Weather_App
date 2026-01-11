@@ -1,3 +1,3 @@
 # Weather_App
 
-This is 3D Weather App 
+A React-based front-end application that fetches and displays weather data.
